@@ -70,3 +70,7 @@ body {
 .button:focus {
     filter: brightness(130%);
 }
+
+.button:hover {
+    opacity: 0.8;
+}

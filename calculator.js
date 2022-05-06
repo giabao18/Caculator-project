@@ -4,9 +4,11 @@ divOpers = document.querySelectorAll(".calculator .box-opr"),
 showCalcBox = document.getElementById("sc"),
 resetBox = document.getElementById("ac"),
 clearBox = document.getElementById("del"),
+
 // isOprClick = check if an operator is clicked
 // isEqClick = check if equal is clicked
 // fco = first click on operator
+
 isOprClick = false, isEqClick = false, fco = 0;
 // add action to all divs
 // clear show-calc box letter by letter

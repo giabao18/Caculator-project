@@ -50,8 +50,8 @@ body {
 
 .button.function {
     font-size: 30px;
-    color: black;
     background: #a5a5a5;
+    color: black;
 }
 
 .button.operator {

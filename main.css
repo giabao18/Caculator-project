@@ -66,6 +66,13 @@ body {
     width: 220px;
 }
 
+.button.function-del {
+    border-radius: 55px;
+    grid-column: 1 / span 2;
+    justify-content: center;
+    width: 220px;
+}
+
 .button:active,
 .button:focus {
     filter: brightness(130%);
